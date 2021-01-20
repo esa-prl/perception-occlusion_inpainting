@@ -1,8 +1,6 @@
-dummy_project
+perception-occlusion_inpainting
 =============
-dummy-brief-desc
-
-dummy-long-desc
+Inpaint occlusion in Digital Elevation Maps (DEMs) using conventional CV2 methods such as for example Navier-Stokes or trained neural networks
 
 License
 -------
