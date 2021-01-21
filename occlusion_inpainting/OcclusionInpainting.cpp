@@ -1,10 +1,10 @@
-#include "Dummy.hpp"
+#include "OcclusionInpainting.hpp"
 #include <iostream>
 
 using namespace std;
-using namespace dummy_project;
+using namespace occlusion_inpainting;
 
-void DummyClass::welcome()
+void OcclusionInpainting::welcome()
 {
     cout << "You successfully compiled and executed DummyProject. Welcome!" << endl;
 }
