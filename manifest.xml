@@ -7,6 +7,6 @@
   <url>https://github.com/esa-prl/perception-occlusion_inpainting.git</url>
   <logo>dummy-logo-url</logo>
   <depend package="base/cmake" />
-  <depend package="external/opencv" />
+  <depend package="opencv" />
   <depend package="external/libtorch" />
 </package>
